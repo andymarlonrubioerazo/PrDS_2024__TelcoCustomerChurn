@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1163209/11df214f2c92449385e555f3db64e096
+bundleId: https://api.rpubs.com/api/v1/document/1163209/11df214f2c92449385e555f3db64e096
+url: http://rpubs.com/jcjimenez/1163209
+version: 1
